@@ -8,9 +8,9 @@ interface Welcomes{
     }
 }
 
-public class program18 implements Welcomes {
+public class Program18 implements Welcomes {
     public static void main(String[] args) {
-        Welcomes s = new program18();
+        Welcomes s = new Program18();
         s.say();
     }
 }
