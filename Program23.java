@@ -6,6 +6,7 @@ public class Program23 {
             int c = a/b;
             int d[] = {1,2,3,4};
             System.out.println(d[10]);
+            System.out.println(c);
         }
 
         catch (ArithmeticException e)
