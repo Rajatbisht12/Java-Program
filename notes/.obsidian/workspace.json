@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recursion.md",
+                "file": "Patterns.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recursion.md",
+                "file": "Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recursion.md",
+                "file": "Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recursion.md"
+                "file": "Patterns.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "b3fe80f680226ab5",
   "lastOpenFiles": [
-    "DSA.md",
     "Recursion.md",
+    "DSA.md",
     "STRING.md",
     "MaxinArray.md",
     "ARRAYS.md",
