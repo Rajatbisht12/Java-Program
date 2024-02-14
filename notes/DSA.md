@@ -4,3 +4,4 @@
 - [[SEARCHING]]
 - [[SORTING]]
 - [[STRING]]
+- [[Patterns]]

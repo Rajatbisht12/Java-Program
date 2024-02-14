@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ee04e5c3f42cd736",
+        "id": "dd82b51b642f7018",
         "type": "tabs",
         "children": [
           {
-            "id": "dff8fe9fe2863b93",
+            "id": "47dc023ee8222a0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyclicSort.md",
+                "file": "Patterns.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyclicSort.md",
+                "file": "Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyclicSort.md",
+                "file": "Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyclicSort.md"
+                "file": "Patterns.md"
               }
             }
           }
@@ -146,12 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dff8fe9fe2863b93",
+  "active": "47dc023ee8222a0c",
   "lastOpenFiles": [
-    "SORTING.md",
-    "CyclicSort.md",
-    "SelectionSort.md",
     "DSA.md",
+    "Patterns.md",
+    "CyclicSort.md",
+    "SORTING.md",
+    "SelectionSort.md",
     "InsertionSort.md",
     "BubbleSort.md",
     "BInarysearch.md",
