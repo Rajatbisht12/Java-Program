@@ -74,10 +74,17 @@ class Solution{
 			return;
 		}
 		System.out.println(n);
+		// this is called the tail recursion
+		// this is the last function call
 		print(n+1);
 	}
 }
 ```
 
 - Need some base condition where it stops.
+- Stack keep getting filling.
+- Every cal of function of function will take some memory.
+- Memory of computer will exceed the limit known as stack overflow.
+
+[[Recursion-2]]
 
