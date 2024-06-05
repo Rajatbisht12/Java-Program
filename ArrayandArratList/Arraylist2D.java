@@ -19,5 +19,6 @@ public class Arraylist2D {
 
         //Printing
         System.out.println(list);
+        sc.close();
     }
 }
