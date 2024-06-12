@@ -1,4 +1,4 @@
-public class Progrm6 {
+public class Program6 {
     int data = 60;
      int Operation(int data){
         data = data*2/6;
@@ -6,7 +6,7 @@ public class Progrm6 {
     }
 
     public static void main(String[] args) {
-        Progrm6 pg = new Progrm6();
+        Program6 pg = new Program6();
         System.out.println("Before "+ pg.data);
         pg.Operation(45);
         System.out.println("After "+ pg.data);
