@@ -29,3 +29,4 @@ class Arrays{
 
 [[MaxinArray]]
 [[PassinginFunction]]
+[[ReverseOfArray]]
