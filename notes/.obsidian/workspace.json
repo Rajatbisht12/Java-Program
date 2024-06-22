@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "507709f007a938f2",
+        "id": "ee04e5c3f42cd736",
         "type": "tabs",
         "children": [
           {
-            "id": "abe600b4f4c37f90",
+            "id": "dff8fe9fe2863b93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SEARCHING.md",
+                "file": "BInarysearch.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEARCHING.md",
+                "file": "BInarysearch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEARCHING.md",
+                "file": "BInarysearch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEARCHING.md"
+                "file": "BInarysearch.md"
               }
             }
           }
@@ -146,8 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "abe600b4f4c37f90",
+  "active": "dff8fe9fe2863b93",
   "lastOpenFiles": [
+    "SearchIn2DArray.md",
+    "Linear Search.md",
+    "BInarysearch.md",
+    "SEARCHING.md",
     "DSA.md",
     "ArrayList2D.md",
     "ARRAYLIST.md",
@@ -157,7 +161,6 @@
     "PassinginFunction.md",
     "Untitled.md",
     "STRING.md",
-    "SORTING.md",
-    "SEARCHING.md"
+    "SORTING.md"
   ]
 }
