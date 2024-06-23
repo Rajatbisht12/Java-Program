@@ -11,11 +11,28 @@
             "id": "e2fbb8bd5855592d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DSA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3fe80f680226ab5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recursion.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 330.5
   },
   "right": {
     "id": "57bd463935811d53",
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Recursion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Recursion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Recursion.md"
+              }
             }
           }
         ]
@@ -138,10 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2fbb8bd5855592d",
+  "active": "b3fe80f680226ab5",
   "lastOpenFiles": [
-    "Patterns.md",
     "DSA.md",
+    "Recursion.md",
+    "STRING.md",
+    "MaxinArray.md",
+    "ARRAYS.md",
+    "ARRAYLIST.md",
+    "Linear Search.md",
+    "Patterns.md",
     "CyclicSort.md",
     "SORTING.md",
     "SelectionSort.md",
@@ -149,15 +176,10 @@
     "BubbleSort.md",
     "BInarysearch.md",
     "SearchIn2DArray.md",
-    "Linear Search.md",
     "SEARCHING.md",
     "ArrayList2D.md",
-    "ARRAYLIST.md",
     "ReverseOfArray.md",
-    "ARRAYS.md",
-    "MaxinArray.md",
     "PassinginFunction.md",
-    "Untitled.md",
-    "STRING.md"
+    "Untitled.md"
   ]
 }
