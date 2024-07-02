@@ -26,4 +26,5 @@ public class FindAllOccurence {
         }
         return findAllIndex(arr, target, index + 1, list);
     }
+
 }
