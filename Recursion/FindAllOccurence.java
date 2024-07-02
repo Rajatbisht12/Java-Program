@@ -16,14 +16,14 @@ public class FindAllOccurence {
         findAllIndex(arr, target, index + 1);
     }
 
-    // public static ArrayList findAllIndex(int [] arr, int target, int index, ArrayList<Integer> list){
-    //     if(index == arr.length){
-    //         return list;
-    //     }
+    public static ArrayList<Integer> findAllIndex(int [] arr, int target, int index, ArrayList<Integer> list){
+        if(index == arr.length){
+            return list;
+        }
 
-    //     if(arr[index] == target){
-    //         list.add(index);
-    //     }
-    //     findAllIndex(arr, target, index + 1, list);
-    // }
+        if(arr[index] == target){
+            list.add(index);
+        }
+        return findAllIndex(arr, target, index + 1, list);
+    }
 }
