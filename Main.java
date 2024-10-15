@@ -1,13 +1,8 @@
 import Trees.*;
-
 public class Main {
     public static void main(String[] args) {
-        AVLTrees tree = new AVLTrees();
-
-        for(int i = 0; i < 10; i++){
-            tree.insert(i);   
-        }
-
-        // System.out.println(tree.height());
+        int[] arr = {3,8,6,7,-2,-8, 4,9};
+        SegmentTrees tree = new SegmentTrees(arr);
+        tree.display();
     }   
 }
