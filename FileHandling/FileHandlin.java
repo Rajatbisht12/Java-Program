@@ -29,6 +29,22 @@ public class FileHandlin{
     }catch(IOException e){
       System.out.println(e.getMessage());
     }
+
+    // Byte to char stream and then reading char stream
+    try(BufferedReader br = new BufferedReader(new InputStreamReader(System.in))){
+      System.out.println("You typed: " + br.readLine());
+    }catch(IOException e){
+      System.out.println(e.getMessage());
+    }
+  }
+
+  public void funb(){
+    // Byte to char stream and then reading char stream
+    try(BufferedReader br = new BufferedReader(new InputStreamReader(System.in))){
+      System.out.println("You typed: " + br.readLine());
+    }catch(IOException e){
+      System.out.println(e.getMessage());
+    }
   }
 }
 
